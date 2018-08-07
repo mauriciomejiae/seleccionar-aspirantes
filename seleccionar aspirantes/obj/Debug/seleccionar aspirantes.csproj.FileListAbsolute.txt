@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\seleccionar aspirantes\seleccionar aspirantes\bin\Debug\seleccionar aspirantes.exe.config
+C:\Users\Mauricio M\Downloads\seleccionar aspirantes\seleccionar aspirantes\bin\Debug\seleccionar aspirantes.exe
+C:\Users\Mauricio M\Downloads\seleccionar aspirantes\seleccionar aspirantes\bin\Debug\seleccionar aspirantes.pdb
+C:\Users\Mauricio M\Downloads\seleccionar aspirantes\seleccionar aspirantes\obj\Debug\seleccionar aspirantes.exe
+C:\Users\Mauricio M\Downloads\seleccionar aspirantes\seleccionar aspirantes\obj\Debug\seleccionar aspirantes.pdb
